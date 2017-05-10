@@ -1,23 +1,43 @@
 .version.index /* version checker */
 {
-	color: #0000E2;
-	background-color: #696FCC;
+	color: #000006;
+	background-color: #00C5DF;
 }
 
 #page
 {
 	z-index: 1;
-	min-height: 409px;
+	min-height: 282px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
-	padding-top: 29px;
-	padding-bottom: 62px;
+	padding-bottom: 218px;
 	width: 100%;
 	max-width: 1170px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#u115
+{
+	z-index: 6;
+	height: 141px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 141px;
+	width: 14.79%;
+	left: 11.71%;
+	background: transparent url("../images/anh1.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#pu94-4
+{
+	margin-right: -10000px;
+	margin-top: 29px;
+	width: 50.95%;
+	margin-left: 29.83%;
 }
 
 #u94-4
@@ -26,58 +46,49 @@
 	min-height: 68px;
 	background-color: transparent;
 	position: relative;
-	width: 38.72%;
-	margin-left: 30.6%;
+	width: 76.01%;
+	margin-left: 1.52%;
 }
 
-#pu100
+#pu118
 {
-	margin-top: 58px;
-	width: 60.86%;
-	margin-left: 19.92%;
+	margin-top: 44px;
+	width: 100%;
 }
 
-#u100
-{
-	z-index: 6;
-	height: 331px;
-	background-color: #F7931E;
-	position: relative;
-	margin-right: -10000px;
-	width: 19.67%;
-}
-
-#u103
+#u118
 {
 	z-index: 7;
-	height: 331px;
-	background-color: #0071BC;
+	height: 141px;
 	position: relative;
 	margin-right: -10000px;
-	width: 19.67%;
-	left: 26.69%;
+	width: 29.03%;
+	background: transparent url("../images/anh2.jpg") no-repeat left top;
+	background-size: cover;
 }
 
-#u106
+#u127
 {
 	z-index: 8;
-	height: 331px;
-	background-color: #39B54A;
+	height: 141px;
 	position: relative;
 	margin-right: -10000px;
-	width: 19.67%;
-	left: 53.24%;
+	width: 29.03%;
+	left: 35.58%;
+	background: transparent url("../images/anh3.jpg") no-repeat left top;
+	background-size: cover;
 }
 
-#u112
+#u130
 {
 	z-index: 9;
-	height: 331px;
-	background-color: #662D91;
+	height: 141px;
 	position: relative;
 	margin-right: -10000px;
-	width: 19.67%;
-	left: 80.34%;
+	width: 29.03%;
+	left: 70.98%;
+	background: transparent url("../images/anh4.jpg") no-repeat left top;
+	background-size: cover;
 }
 
 #muse_css_mq,.html
@@ -90,4 +101,5 @@ body
 	position: relative;
 	min-width: 320px;
 }
+
 
